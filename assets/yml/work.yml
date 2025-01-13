@@ -1,0 +1,26 @@
+tata:
+  title: Senior Engineer
+  location: Trivandrum, India
+  date: "Aug 2022 - Present"
+  description: Tata Elxsi
+  details:
+    - Developed an autonomous navigation system using reinforcement learning, leveraging ROS, and Gazebo.
+    - Built multiple chatbots for sentiment analysis, question-answering, and text summarization using Hugging Face Transformers, fine-tuning pretrained models like BERT, RoBERTa, and DistilBERT, deployed via a userfriendly Streamlit interface.
+    - Developed specialized dashboards for Jaguar Land Rover (JLR), leveraging BigQuery, Tableau, and Python to empower Subject Matter Experts (SMEs) in monitoring and addressing system deviations effectively.
+    - Designed a navigation page in Tableau Online to streamline access to multiple dashboards, enhancing user experience, and efficiency.
+    - Developed multiple machine learning models for MHEV (Mild Hybrid Electric Vehicle) DC-DC fault prediction, leveraging one-class SVM, and various binary classification techniques. The models were designed to predict potential DC-DC converter failures, a crucial component in electric and hybrid vehicles, by analyzing operational data and identifying early signs of failure.
+
+
+
+
+
+bern_jp:
+  title: Junior Professor
+  location: Bern, Switzerland
+  date: 1908 - 1909
+  description: University of Bern
+bern_ta:
+  title: Technical Assistant
+  location: Bern, Switzerland
+  date: 1902 - 1908
+  description: Federal Patent Office
