@@ -12,7 +12,7 @@
 #let color-lightgray = rgb("#999999")
 
 // Default style
-#let color-accent-default = rgb("#dc3522")
+#let color-accent-default = rgb("#3122dc")
 #let font-header-default = ("Roboto", "Arial", "Helvetica", "Dejavu Sans")
 #let font-text-default = ("Source Sans Pro", "Arial", "Helvetica", "Dejavu Sans")
 #let align-header-default = center

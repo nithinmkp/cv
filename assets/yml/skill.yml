@@ -1,9 +1,15 @@
 lang:
   title: Languages
-  description: German (Native), English (Fluent), French (Intermediate)
+  description: Malayalam (Native), English (Fluent), Hindi (Intermediate), Tamil (Intermediate)
 programming:
   title: Programming Languages
-  description: Python, C++, Fortran
+  description: Python, SQL, R
+technical:
+  title: Technical Skills
+  description: Machine Learning, Deep Learning, Natual Language Processing,Computer Vision
+method:
+  title: Methodology/Approach
+  description: Data Analysis and Visualization, Data Preprocessing and Feature Engineering, Model Deployment and Integration
 markup:
   title: Markup Languages
   description: Typst, Quarto, LaTeX
