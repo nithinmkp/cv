@@ -4,6 +4,9 @@ lang:
 programming:
   title: Programming Languages
   description: Python, SQL, R
+git:
+  title: Version Control
+  description: Git, DVC
 technical:
   title: Technical Skills
   description: Machine Learning, Deep Learning, Natual Language Processing,Computer Vision

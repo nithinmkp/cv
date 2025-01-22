@@ -3,5 +3,10 @@ Btech:
   date: 2015
   description: Best Outgoing student of EEE batch
 mtech: 
+  title: Topper of the Mtech Batch
   date: 2022
   description: Class second in Mtech AI Batch 2020-2022
+elxsi:
+  title: Customer Appreciation Award
+  date: 2024-25
+  description: won customer appreciation from JLR (Client) for creating a tree visualisation dashboard in tableau for high Sev MLA BEV validation

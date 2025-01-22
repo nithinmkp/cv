@@ -114,7 +114,7 @@ $endif$
     weight: "light",
     size: 9pt,
     style: "italic",
-    fill: color-gray,
+    fill: color-darknight,
   )
   body
 }
@@ -132,7 +132,7 @@ $endif$
       #set text(
         size: 12pt,
         weight: "bold",
-        fill: color-darkgray,
+        fill: color-darknight,
       )
       #primary
     ][
@@ -149,7 +149,7 @@ $endif$
      #set text(
       size: 10pt,
       weight: "regular",
-      fill: color-gray,
+      fill: color-darknight,
     )
     #primary
   ][
@@ -173,7 +173,7 @@ $endif$
         style: "normal",
         font: (font-header),
       )
-      #text(fill: color-gray, weight: "thin")[#firstname]
+      #text(fill: color-darknight, weight: "thin")[#firstname]
       #text(weight: "bold")[#lastname]
     ]
   ]
@@ -206,7 +206,7 @@ $endif$
       below: 0.75em,
   )
   set text(
-    color-lightgray,
+    color-darknight,
     size: 9pt,
     style: "italic",
   )
@@ -368,7 +368,7 @@ $endif$
 #let resume(
   title: "CV",
   author: (:),
-  date: datetime.today().display("[month repr:long] [day], [year]"),
+  date: datetime.today().display("[month repr:long] [year]"),
   profile-photo: "",
   body,
 ) = {
@@ -381,7 +381,7 @@ $endif$
   set text(
     font: (font-text),
     size: 11pt,
-    fill: color-darkgray,
+    fill: color-darknight,
     fallback: true,
   )
   
@@ -390,7 +390,7 @@ $endif$
     margin: (left: 15mm, right: 15mm, top: 10mm, bottom: 10mm),
     footer: [
       #set text(
-        fill: gray,
+        fill: color-darknight,
         size: 8pt,
       )
       #__justify_align_3[
@@ -426,14 +426,14 @@ $endif$
     )
     
     #align(left)[
-      #text[#strong[#text(color-accent)[#it.body.text.slice(0, 3)]#text(color-darkgray)[#it.body.text.slice(3)]]]
+      #text[#strong[#text(color-accent)[#it.body.text.slice(0, 3)]#text(color-darknight)[#it.body.text.slice(3)]]]
       #box(width: 1fr, line(length: 100%))
     ]
   ]
   
   show heading.where(level: 2): it => {
     set text(
-      color-middledarkgray,
+      color-darknight,
       size: 12pt,
       weight: "thin"
     )
@@ -444,7 +444,7 @@ $endif$
     set text(
       size: 10pt,
       weight: "regular",
-      fill: color-gray,
+      fill: color-darknight,
     )
     smallcaps[#it.body]
   }

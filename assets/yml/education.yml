@@ -5,6 +5,8 @@ M.Tech:
   description: T.K.M College of Engineering, (Kerala Technological University)
   details: 
     - CGPA score = 7.97
+    - "Minor Project : Object detection of surgical instruments using yolo v5" 
+    - "Major Project: Area Exploration with mobile robots using reinforcement learing"
     
 B.Tech:
   title: B.Techn in Electrical and Electronics Engineering
@@ -13,3 +15,4 @@ B.Tech:
   description: Jawahar College of Engineering and Technology (Caclicut University)
   details: 
     - "CGPA score = 9.67"
+    - "Project: Power factor correction in indian Railways using capacitor bank network"
