@@ -455,7 +455,7 @@ $endif$
                 position: author.position,
                 address: author.address,
                 contacts: author.contacts,
-                profile-photo: profile-photo,)
+                profile-photo: profile-photo)
   body
 }
 

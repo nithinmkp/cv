@@ -1,21 +1,25 @@
 ---
-title: "Albert Einstein's CV"
+title: "Jithin's CV"
 author:
   firstname: Jithin
   lastname: M
-  address: "Kollam, India -691010"
+  address: "Kollam, India - 691010"
   position: "AI Engineer ・ Data Scientist"
   contacts:
     - icon: fa envelope
       text: jithinmkp94@gmail.com
       url: "mailto:jithinmkp94@gmail.com"
+    - icon: assets/icon/mob.svg
+      text: 8921848860
     - icon: fa brands github
       text: GitHub
       url: https://github.com/Jithin-jith
     - icon: fa brands linkedin
       text: LinkedIn
       url: http://www.linkedin.com/in/jithin-mani-554993b8
+
 format: awesomecv-typst
+profile-photo: "nithin.png"
 ---
 
 
